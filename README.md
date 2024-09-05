@@ -49,7 +49,7 @@ This demo was built to assess the suitability of such AI models in production en
 <h2 id="installation" style="font-family:Arial, sans-serif;">Installation</h2>
 
 <p style="font-family:Arial, sans-serif;">
-  <b>Note:</b> Ensure you have <a href="https://pytorch.org/"> Pytorch </a> installed as well as YOLOv8 and OpenAI CLIP models available in the <code>data/models</code> directory. You can download the models from the following links: <a href="#resources">resources section</a>.
+  <b>Note:</b> Ensure you have <a href="https://pytorch.org/"> Pytorch </a> installed as well as YOLOv8 and OpenAI CLIP models available in the <code>data/models</code> directory. You can download the models from the: <a href="#resources">resources section</a>.
 </p>
 
 <pre><code style="font-family:monospace;">
@@ -156,12 +156,12 @@ Bash Vision/
   <li>
     <a href="https://docs.ultralytics.com/models/yolo-world/" target="_blank">
       YOLOv8 Documentation
-    </a> - Learn more & download the YOLO World, one of the most efficient and fast object detection models used in this project.
+    </a> - Learn more & download YOLO World, one of the most efficient and fast object detection models used in this project.
   </li>
   <li>
     <a href="https://openai.com/research/clip" target="_blank">
       OpenAI CLIP Documentation
-    </a> - Explore how OpenAI's CLIP model bridges images and text, allowing for accurate product-facet matching in Bash Vision.
+    </a> - Explore OpenAI's CLIP model bridges images and text, allowing for accurate product-facet matching in Bash Vision.
   </li>
   <li>
     <a href="https://docs.streamlit.io/" target="_blank">
