@@ -1,0 +1,190 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "FABIANI",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Brabantia",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Wool blend",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Poly viscose",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Crepe",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Linen",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Melton",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Pants style",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Slim leg",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Tailored",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Straight leg",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Sleeve length",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Long sleeved",
+                            "quantity": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Jacket & coat style",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Blazer",
+                            "quantity": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Sleeve style",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Regular",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Suit style",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Single button",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Two button",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Three button",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Top length",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Cropped",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Regular",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

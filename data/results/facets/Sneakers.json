@@ -1,0 +1,409 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 39,
+                    "values": [
+                        {
+                            "name": "PUMA",
+                            "quantity": 500
+                        },
+                        {
+                            "name": "adidas",
+                            "quantity": 402
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 397
+                        },
+                        {
+                            "name": "New Balance",
+                            "quantity": 308
+                        },
+                        {
+                            "name": "Converse",
+                            "quantity": 270
+                        },
+                        {
+                            "name": "Asics",
+                            "quantity": 181
+                        },
+                        {
+                            "name": "Reebok",
+                            "quantity": 179
+                        },
+                        {
+                            "name": "Vans",
+                            "quantity": 139
+                        },
+                        {
+                            "name": "Hi Tec",
+                            "quantity": 138
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 72
+                        },
+                        {
+                            "name": "Superga",
+                            "quantity": 47
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 41
+                        },
+                        {
+                            "name": "Steve Madden",
+                            "quantity": 39
+                        },
+                        {
+                            "name": "Kappa",
+                            "quantity": 31
+                        },
+                        {
+                            "name": "Skechers",
+                            "quantity": 30
+                        },
+                        {
+                            "name": "ALDO",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "TOMTOM",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Stepney Workers Club",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Call It Spring",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Jeep",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Lonsdale",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Hoka One One",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Veldskoen",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Tomy Takkies",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "DC",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Redbat Athletics",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Jonathan D",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Fila",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 25,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 125
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 63
+                        },
+                        {
+                            "name": "Teal",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Peach",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 850
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 615
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 302
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 269
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 192
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 131
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 98
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 58
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 53
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 49
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 38
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 32
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Turquoise",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Neutral",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 19,
+                    "values": [
+                        {
+                            "name": "Leather",
+                            "quantity": 1059
+                        },
+                        {
+                            "name": "Suede",
+                            "quantity": 118
+                        },
+                        {
+                            "name": "Synthetic leather",
+                            "quantity": 97
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Faux-leather",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Microfibre",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Rubber",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PVC",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Lace",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Faux-suede",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Canvas",
+                            "quantity": 356
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 340
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 31
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Melton",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                
+                {
+                    "name": "Sneakers",
+                    "quantity": 12,
+                    "values": [
+                        {
+                            "name": "Casual",
+                            "quantity": 2085
+                        },
+                        {
+                            "name": "Lo-top",
+                            "quantity": 248
+                        },
+                        {
+                            "name": "Court",
+                            "quantity": 193
+                        },
+                        {
+                            "name": "Hi-top",
+                            "quantity": 75
+                        },
+                        {
+                            "name": "Platform",
+                            "quantity": 43
+                        },
+                        {
+                            "name": "Mid-top",
+                            "quantity": 39
+                        },
+                        {
+                            "name": "Vulcanized",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Plimsole",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Trainer",
+                            "quantity": 133
+                        },
+                        {
+                            "name": "Chunky",
+                            "quantity": 106
+                        },
+                        {
+                            "name": "Slip-ons",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Skater",
+                            "quantity": 5
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

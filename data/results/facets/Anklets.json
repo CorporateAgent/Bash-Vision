@@ -1,0 +1,78 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Sterns",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "American Swiss",
+                            "quantity": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Silver",
+                            "quantity": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Body jewellery",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Anklets",
+                            "quantity": 19
+                        }
+                    ]
+                },
+                {
+                    "name": "Bracelets",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Bracelets",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Alloy",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "White Gold",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

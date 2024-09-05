@@ -1,0 +1,254 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "Cotton On",
+                            "quantity": 60
+                        },
+                        {
+                            "name": "Granadilla Swim",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Roxy",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Oakley",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Billabong",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Speedo",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "RVCA",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Quiksilver",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Hurley",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Arena",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Guess",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 18,
+                    "values": [
+                        {
+                            "name": "Coral",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 47
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 9,
+                    "values": [
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 31
+                        },
+                        {
+                            "name": "Lycra",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Polyamide",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Recycled polyester",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 98
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Spandex",
+                            "quantity": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Shorts style",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Drawstring",
+                            "quantity": 42
+                        }
+                    ]
+                },
+                {
+                    "name": "Swimwear",
+                    "quantity": 10,
+                    "values": [
+                        {
+                            "name": "Bikini top",
+                            "quantity": 35
+                        },
+                        {
+                            "name": "Bikini bottom",
+                            "quantity": 34
+                        },
+                        {
+                            "name": "Boardshorts",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Rashguard",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Trunk",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Beach cover-up",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Shorts",
+                            "quantity": 74
+                        },
+                        {
+                            "name": "Swimsuit",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Speedo",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Trunks",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

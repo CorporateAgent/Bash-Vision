@@ -1,0 +1,258 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 15,
+                    "values": [
+                        {
+                            "name": "Markham",
+                            "quantity": 72
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 44
+                        },
+                        {
+                            "name": "Ray-Ban",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Oakley",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Arnette",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Canvas Studios",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Vogue Eyewear",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Iconography",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "S.W.A.N.K",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 19,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 89
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 40
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Clear",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Plastic",
+                            "quantity": 95
+                        },
+                        {
+                            "name": "Metal",
+                            "quantity": 52
+                        },
+                        {
+                            "name": "Acrylic",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 19
+                        }
+                    ]
+                },
+                {
+                    "name": "Eyewear style",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "Rectangular",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Oval",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Square",
+                            "quantity": 65
+                        },
+                        {
+                            "name": "Aviator",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Retro",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Clubmaster",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Cat Eye",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Shield",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Round",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Wayfarers",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Oversized",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Lounger",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Rimless/Frame-less",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Caravan",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Flat Top",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Flatbrow",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklaces",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Chain",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

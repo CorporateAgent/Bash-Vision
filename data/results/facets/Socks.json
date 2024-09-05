@@ -1,0 +1,292 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 32,
+                    "values": [
+                        {
+                            "name": "Nike",
+                            "quantity": 51
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 44
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 32
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 30
+                        },
+                        {
+                            "name": "adidas",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Stance",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Falke",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Versus Socks",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Sneaker Factory",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Pringle",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Balega",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Archive",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Vans",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "New Balance",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Lotto",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Oakley",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Fila",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Anatomy",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "S.W.A.N.K",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Redbat Classics",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Redbat Athletics",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Netsurfer",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Kappa",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "APX",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 17,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Teal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Coral",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 147
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 107
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 89
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 36
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 248
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 61
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 54
+                        },
+                        {
+                            "name": "Recycled polyester",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 73
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 32
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 24
+                        }
+                    ]
+                },
+                {
+                    "name": "Socks & stockings",
+                    "quantity": 9,
+                    "values": [
+                        {
+                            "name": "Crew socks",
+                            "quantity": 185
+                        },
+                        {
+                            "name": "Ankle socks",
+                            "quantity": 124
+                        },
+                        {
+                            "name": "Hidden",
+                            "quantity": 63
+                        },
+                        {
+                            "name": "Dress socks",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Knee-length socks",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Compression socks",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Stockings",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Over-the-knee socks",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Boot socks",
+                            "quantity": 32
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

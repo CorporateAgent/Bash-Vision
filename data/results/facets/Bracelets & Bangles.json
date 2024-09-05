@@ -1,0 +1,228 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 12,
+                    "values": [
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 105
+                        },
+                        {
+                            "name": "American Swiss",
+                            "quantity": 102
+                        },
+                        {
+                            "name": "Sterns",
+                            "quantity": 65
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 46
+                        },
+                        {
+                            "name": "Tempo",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Michael Kors",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Chete",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Miss Swiss",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 14,
+                    "values": [
+                        {
+                            "name": "Silver",
+                            "quantity": 40
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Turquoise",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 55
+                        },
+                        {
+                            "name": "Faux-leather",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Leather",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Clay",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Body jewellery",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Anklets",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Bracelets",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "Bracelets",
+                            "quantity": 305
+                        },
+                        {
+                            "name": "Bangles",
+                            "quantity": 71
+                        },
+                        {
+                            "name": "Charm bracelets",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Cuff",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Kids bracelets",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 9,
+                    "values": [
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 58
+                        },
+                        {
+                            "name": "Brass",
+                            "quantity": 35
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Mixed",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Alloy",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Gold plated",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 56
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "White Gold",
+                            "quantity": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 12,
+                    "values": [
+                        {
+                            "name": "Foschini",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Canvas Studios",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Oakley",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Pringle",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Archive",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Ecru",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Acrylic",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 29
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Viscose",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Spandex",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Hair accessories",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Hair bands",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

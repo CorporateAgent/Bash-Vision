@@ -1,0 +1,176 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "Foschini",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Pringle",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 15,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 59
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Leather",
+                            "quantity": 30
+                        },
+                        {
+                            "name": "Faux-leather",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Metal",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Microfibre",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 59
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Alloy",
+                            "quantity": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

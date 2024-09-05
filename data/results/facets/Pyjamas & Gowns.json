@@ -1,0 +1,148 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Foschini",
+                            "quantity": 56
+                        },
+                        {
+                            "name": "@home",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Iconography",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Canvas Studios",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Guest House Collection",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "graccioza",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 10,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 10,
+                    "values": [
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Poly viscose",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Velour",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Acrylic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Viscose",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Room",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Bedroom",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

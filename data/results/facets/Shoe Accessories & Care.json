@@ -1,0 +1,78 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Sneaker Lab",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Crep",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Sof Sole",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Black",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Clear",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Plastic",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

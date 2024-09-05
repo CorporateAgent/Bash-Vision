@@ -1,0 +1,382 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 18,
+                    "values": [
+                        {
+                            "name": "Exact",
+                            "quantity": 168
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 86
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 45
+                        },
+                        {
+                            "name": "Strapology",
+                            "quantity": 34
+                        },
+                        {
+                            "name": "Sterns",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "American Swiss",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Cotton On",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Character Group",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "RVCA",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Tempo",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "SODABLOC",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Miss Swiss",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Goorin Bros.",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 17,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 64
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 60
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 56
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 50
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 32
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 58
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 53
+                        },
+                        {
+                            "name": "Acrylic",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Microfibre",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Faux-leather",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "PVC",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Paper",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Leather",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 69
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 50
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Lifestage",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Kids (2-8 years)",
+                            "quantity": 211
+                        },
+                        {
+                            "name": "Teens (8-14 years)",
+                            "quantity": 70
+                        },
+                        {
+                            "name": "Baby & toddler (0 - 2 years)",
+                            "quantity": 53
+                        }
+                    ]
+                },
+                {
+                    "name": "Headwear",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Peak cap",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Snapback",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Trucker",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Beanie",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Earrings",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Kids earrings",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Stud earrings",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Hoop earrings",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Fragrances",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Eau de parfum",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Jewellery accessories",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Watch straps",
+                            "quantity": 34
+                        },
+                        {
+                            "name": "Lapel pins",
+                            "quantity": 32
+                        },
+                        {
+                            "name": "Clasps & links",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Tie clips",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Jewellery boxes",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Jewellery cleaner",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Cufflinks",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Alloy",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Mixed",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklaces",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Pendants",
+                            "quantity": 18
+                        }
+                    ]
+                },
+                {
+                    "name": "Watch type",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Bracelet",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

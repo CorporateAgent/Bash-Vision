@@ -1,0 +1,302 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 15,
+                    "values": [
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 466
+                        },
+                        {
+                            "name": "American Swiss",
+                            "quantity": 375
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 327
+                        },
+                        {
+                            "name": "Sterns",
+                            "quantity": 248
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 58
+                        },
+                        {
+                            "name": "Tempo",
+                            "quantity": 40
+                        },
+                        {
+                            "name": "Chete",
+                            "quantity": 33
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 31
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Miss Swiss",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Michael Kors",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Me&B",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 17,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 316
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 233
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 29
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Clear",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Turquoise",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 532
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Acrylic",
+                            "quantity": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Rings",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Open Ended Rings",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Dress rings",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Body jewellery",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Nose jewellery",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Earrings",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Hoop earrings",
+                            "quantity": 580
+                        },
+                        {
+                            "name": "Stud earrings",
+                            "quantity": 547
+                        },
+                        {
+                            "name": "Drop earrings",
+                            "quantity": 431
+                        },
+                        {
+                            "name": "Huggies",
+                            "quantity": 48
+                        },
+                        {
+                            "name": "Ear piercings",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Kids earrings",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Clip-in earrings",
+                            "quantity": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 289
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 200
+                        },
+                        {
+                            "name": "Brass",
+                            "quantity": 166
+                        },
+                        {
+                            "name": "Alloy",
+                            "quantity": 84
+                        },
+                        {
+                            "name": "Mixed",
+                            "quantity": 60
+                        },
+                        {
+                            "name": "Gold plated",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Rhodium plated",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Silver plated",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 168
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "White Gold",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Rose Gold",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Platinum",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklaces",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Pendants",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Watch dial shape",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Round",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

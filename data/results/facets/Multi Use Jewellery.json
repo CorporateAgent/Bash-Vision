@@ -1,0 +1,124 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Exact",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Sterns",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "American Swiss",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Silver",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Body jewellery",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Multi use jewellery",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Nose jewellery",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Toe rings",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Belly jewellery",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Mixed",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Brass",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Watch dial shape",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Round",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

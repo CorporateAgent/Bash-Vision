@@ -1,0 +1,85 @@
+#########################################
+# Understanding Your YOLO Predictions   #
+#########################################
+
+When you run the AI-powered image search, the YOLO model generates predictions about the objects it detects in your image. 
+This file helps you understand how to interpret the prediction results.
+
+The YOLO model outputs a text file where each line contains five or six numerical values that describe the predicted object, 
+its location, and how confident the model is about that prediction.
+
+Here’s how to break it down:
+
+-------------------------------------------------
+### Format of the Prediction (One line per object):
+[class_id] [x_center] [y_center] [width] [height] [confidence]
+-------------------------------------------------
+
+#### 1. **class_id** (Integer)
+   - **Definition**: This number represents the **object class** the model detected in the image.
+   - **Example**: If class_id is `3`, and class 3 corresponds to "sneakers" in the model, the model is predicting that this object is a sneaker.
+   - **How to Use**: You can reference this number against the list of categories the model has been trained on to understand what object has been detected.
+
+#### 2. **x_center** (Float, normalized between 0 and 1)
+   - **Definition**: This is the **horizontal position** (X-axis) of the center of the object, relative to the image width.
+   - **Example**: If x_center is `0.42`, it means the center of the object is 42% from the left side of the image.
+   - **How to Use**: Helps you visualize where the object is located horizontally in the image.
+
+#### 3. **y_center** (Float, normalized between 0 and 1)
+   - **Definition**: This is the **vertical position** (Y-axis) of the center of the object, relative to the image height.
+   - **Example**: If y_center is `0.60`, the object is 60% from the top of the image.
+   - **How to Use**: Helps you visualize where the object is located vertically.
+
+#### 4. **width** (Float, normalized between 0 and 1)
+   - **Definition**: The **width of the detected object**, relative to the image size.
+   - **Example**: If width is `0.22`, the object occupies 22% of the total image width.
+   - **How to Use**: This gives you an idea of how large the object is within the image.
+
+#### 5. **height** (Float, normalized between 0 and 1)
+   - **Definition**: The **height of the detected object**, relative to the image size.
+   - **Example**: If height is `0.19`, the object occupies 19% of the total image height.
+   - **How to Use**: Similar to the width, this helps you understand how large the object is vertically within the image.
+
+#### 6. **confidence** (Float, between 0 and 1)
+   - **Definition**: The **model’s confidence** that the object is correctly identified.
+   - **Example**: If confidence is `0.85`, it means the model is 85% sure that the prediction is correct.
+   - **How to Use**: Higher confidence means the model is more certain about the object it detected. 
+     Use this to filter out low-confidence detections.
+
+-------------------------------------------------
+### Example Prediction Lines:
+
+`3 0.417971 0.461555 0.0644797 0.0143072 0.848547`
+
+- **class_id** = 3 → The detected object is likely a "Sneaker" (based on your trained classes).
+- **x_center** = 0.417971 → The object’s center is 41.8% from the left of the image.
+- **y_center** = 0.461555 → The object’s center is 46.2% from the top of the image.
+- **width** = 0.0644797 → The object takes up 6.4% of the image width.
+- **height** = 0.0143072 → The object takes up 1.4% of the image height.
+- **confidence** = 0.848547 → The model is 84.85% confident that the object is a sneaker.
+
+`29 0.422031 0.605495 0.219157 0.190723 0.683614`
+
+- **class_id** = 29 → The detected object is likely a "Bag".
+- **x_center** = 0.422031 → The object’s center is 42.2% from the left of the image.
+- **y_center** = 0.605495 → The object’s center is 60.5% from the top of the image.
+- **width** = 0.219157 → The object takes up 21.9% of the image width.
+- **height** = 0.190723 → The object takes up 19.1% of the image height.
+- **confidence** = 0.683614 → The model is 68.36% confident that the object is a bag.
+
+-------------------------------------------------
+### Key Things to Remember:
+1. **Coordinates are normalized**: The values for x_center, y_center, width, and height are relative to the size of the image. 
+This means they are always between `0` and `1`. To get the actual pixel values, you would need to multiply by the image’s width and height.
+   
+2. **Confidence matters**: Detections with lower confidence (e.g., <50%) might not be as accurate. 
+It's a good idea to focus on predictions with higher confidence for best results.
+
+3. **Class ID reference**: You can cross-reference the **class_id** with the category list that the YOLO model has been trained on 
+to interpret what objects were detected. The category list can be found in the `classes.txt` file or loaded directly from the model.
+
+-------------------------------------------------
+### Conclusion:
+These predictions are the foundation for identifying objects in your image. 
+The AI analyzes the image, finds objects, and assigns each one a category (class_id) with a confidence score. 
+From this data, you can match objects with products in your database and make better recommendations based on visual search.

@@ -1,0 +1,280 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 19,
+                    "values": [
+                        {
+                            "name": "ALDO",
+                            "quantity": 34
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 29
+                        },
+                        {
+                            "name": "Call It Spring",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Steve Madden",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Jonathan D",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Butterfly Feet",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Madison",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Viabeach",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Mazerata",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Veldskoen",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Grasshoppers",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 18,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Peach",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 115
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Leather",
+                            "quantity": 63
+                        },
+                        {
+                            "name": "Suede",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Velour",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 97
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "Loafer",
+                            "quantity": 70
+                        },
+                        {
+                            "name": "Lace-up",
+                            "quantity": 45
+                        },
+                        {
+                            "name": "Pumps",
+                            "quantity": 39
+                        },
+                        {
+                            "name": "Flat shoes",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Formal",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Slip on",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Ballerina",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Casual",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Mules",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Oxford",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Espadrille",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Moccasin",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Brogue",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Heel height",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Low heel",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandal & flip flops style",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Gladiator",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

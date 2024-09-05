@@ -1,0 +1,314 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 27,
+                    "values": [
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 52
+                        },
+                        {
+                            "name": "adidas",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Superdry",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Redbat Athletics",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "APX",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Havaianas",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Sneaker Factory",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Cotton On",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "New Balance",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Crocs",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Birkenstock",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "RVCA",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Ipanema",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "ALDO",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "UGG",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Fila",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 22,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Mint",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Coral",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 73
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 49
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 11,
+                    "values": [
+                        {
+                            "name": "PVC",
+                            "quantity": 40
+                        },
+                        {
+                            "name": "Rubber",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Synthetic leather",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Suede",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Leather",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Paper",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 62
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Slip on",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandal & flip flops style",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Slip-on",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Clogs",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Slides",
+                            "quantity": 116
+                        },
+                        {
+                            "name": "Flip Flops",
+                            "quantity": 102
+                        },
+                        {
+                            "name": "Chunky",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Ankle Strap",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Strappy",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Sling Back",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

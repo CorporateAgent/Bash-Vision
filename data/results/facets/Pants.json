@@ -1,0 +1,662 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 49,
+                    "values": [
+                        {
+                            "name": "Foschini",
+                            "quantity": 121
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 108
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 66
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 53
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 48
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 48
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 44
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 39
+                        },
+                        {
+                            "name": "adidas",
+                            "quantity": 36
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 35
+                        },
+                        {
+                            "name": "YandG",
+                            "quantity": 29
+                        },
+                        {
+                            "name": "Me&B",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Cotton On",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Canvas Studios",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Iconography",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Converse",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Anatomy",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "The North Face",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Vans",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Reebok",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "News",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "New Balance",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Union",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Pringle",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Under Armour",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Archive",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Redbat Classics",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Oakley",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Kappa",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Elwen Design",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "YARNS",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "VNTU",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "S.W.A.N.K",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Rosey & Vittori",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Mami Wata",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Ikonic Legend",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Guess",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Zeitgeist",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Thula-Tu",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Superdry",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Steve Madden",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Redbat Athletics",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "One Teaspoon",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Hurley",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 22,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 98
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Stone",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Ecru",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Coral",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 245
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 97
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 96
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 81
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 60
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 54
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 37
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Copper",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Bronze",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 32,
+                    "values": [
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 116
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 112
+                        },
+                        {
+                            "name": "Fleece",
+                            "quantity": 49
+                        },
+                        {
+                            "name": "Poly viscose",
+                            "quantity": 40
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Wool blend",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Linen blend",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Polyamide",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Viscose blend",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Organic cotton",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Lyocell",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Faux-leather",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Cotton fleece",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Velour",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Lace",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Georgette",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 179
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 166
+                        },
+                        {
+                            "name": "Twill",
+                            "quantity": 55
+                        },
+                        {
+                            "name": "Viscose",
+                            "quantity": 47
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Rayon",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Linen",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Spandex",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Melton",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Velvet",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Sherpa",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Corduroy",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Canvas",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Pants type",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Trousers",
+                            "quantity": 496
+                        },
+                        {
+                            "name": "Chinos",
+                            "quantity": 121
+                        },
+                        {
+                            "name": "Trackpants",
+                            "quantity": 90
+                        },
+                        {
+                            "name": "Jogger",
+                            "quantity": 90
+                        },
+                        {
+                            "name": "Sweatpants",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Jeans",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Leggings",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Tights",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Jeans style",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "High waisted",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Wide leg",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Slim",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Pants style",
+                    "quantity": 20,
+                    "values": [
+                        {
+                            "name": "Parachute",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Carpenter",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Tregging",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Tights",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Wide-leg",
+                            "quantity": 169
+                        },
+                        {
+                            "name": "Slim leg",
+                            "quantity": 106
+                        },
+                        {
+                            "name": "Cargo",
+                            "quantity": 94
+                        },
+                        {
+                            "name": "Utility",
+                            "quantity": 77
+                        },
+                        {
+                            "name": "Trackpants",
+                            "quantity": 70
+                        },
+                        {
+                            "name": "Tapered",
+                            "quantity": 66
+                        },
+                        {
+                            "name": "Straight leg",
+                            "quantity": 65
+                        },
+                        {
+                            "name": "Joggers",
+                            "quantity": 48
+                        },
+                        {
+                            "name": "Skinny",
+                            "quantity": 39
+                        },
+                        {
+                            "name": "Tailored",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Sweatpants",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Flared",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Paperbag",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Culottes",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Bootleg",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Mom",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Fit",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Regular",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Slim",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Denim wash",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Coloured",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Light wash",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Length",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "Full length",
+                            "quantity": 747
+                        },
+                        {
+                            "name": "Ankle length",
+                            "quantity": 62
+                        },
+                        {
+                            "name": "Cropped",
+                            "quantity": 36
+                        },
+                        {
+                            "name": "Mid",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Short",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Rise",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Mid",
+                            "quantity": 215
+                        },
+                        {
+                            "name": "High",
+                            "quantity": 184
+                        },
+                        {
+                            "name": "Low",
+                            "quantity": 17
+                        }
+                    ]
+                },
+                {
+                    "name": "Suit style",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Tuxedo",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 12,
+                    "values": [
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 37
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Jockey",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Guess",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "BEAR",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Pringle",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 11,
+                    "values": [
+                        {
+                            "name": "Charcoal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 64
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 31
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 87
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 68
+                        },
+                        {
+                            "name": "Spandex",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Men's underwear",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "Boxer",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Trunks",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Briefs",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Tanga",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Boxer brief",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Socks & stockings",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Ankle socks",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "Cotton On",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "All Woman",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 5
+                        }
+                    ]
+                },
+                {
+                    "name": "Hair accessories",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Hair bands",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Hair claw",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Alice band",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Clips",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Scrunchies",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Pins",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Gold",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

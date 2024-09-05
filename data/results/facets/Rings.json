@@ -1,0 +1,292 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 11,
+                    "values": [
+                        {
+                            "name": "American Swiss",
+                            "quantity": 687
+                        },
+                        {
+                            "name": "Sterns",
+                            "quantity": 593
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 118
+                        },
+                        {
+                            "name": "Chete",
+                            "quantity": 74
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Miss Swiss",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Icon",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Silver",
+                            "quantity": 186
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 81
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 185
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Rings",
+                    "quantity": 15,
+                    "values": [
+                        {
+                            "name": "Dress rings",
+                            "quantity": 478
+                        },
+                        {
+                            "name": "Engagement rings",
+                            "quantity": 394
+                        },
+                        {
+                            "name": "Bands",
+                            "quantity": 259
+                        },
+                        {
+                            "name": "Wedding rings",
+                            "quantity": 120
+                        },
+                        {
+                            "name": "Solitaire rings",
+                            "quantity": 64
+                        },
+                        {
+                            "name": "Wedding sets",
+                            "quantity": 51
+                        },
+                        {
+                            "name": "Stackable rings",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Signet rings",
+                            "quantity": 41
+                        },
+                        {
+                            "name": "Promise rings",
+                            "quantity": 30
+                        },
+                        {
+                            "name": "Pinky Ring",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Open Ended Rings",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Lab Grown",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Eternity",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Trilogy",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Kids rings",
+                            "quantity": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Body jewellery",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Toe rings",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 15,
+                    "values": [
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 380
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 220
+                        },
+                        {
+                            "name": "Mixed",
+                            "quantity": 63
+                        },
+                        {
+                            "name": "Brass",
+                            "quantity": 60
+                        },
+                        {
+                            "name": "Zirconium",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Titanium",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Alloy",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Gold plated",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Black plated",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 84
+                        },
+                        {
+                            "name": "White Gold",
+                            "quantity": 41
+                        },
+                        {
+                            "name": "Tungsten",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Rose Gold",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Platinum",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklaces",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Pendants",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Chain",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Stone shape",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Oval",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Round",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Princess",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Cushion",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Marquise",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Emerald",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

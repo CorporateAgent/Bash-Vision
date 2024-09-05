@@ -1,0 +1,300 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 25,
+                    "values": [
+                        {
+                            "name": "ALDO",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Call It Spring",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Hi Tec",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "UGG",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Steve Madden",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Jonathan D",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Mazerata",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Jeep",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Grasshoppers",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Miss Black",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Butterfly Feet",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Veldskoen",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Superga",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Relay Jeans",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "BRONX",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Union",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "FABIANI",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 14,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Dark Brown",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 78
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 43
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 9,
+                    "values": [
+                        {
+                            "name": "Leather",
+                            "quantity": 66
+                        },
+                        {
+                            "name": "Suede",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Lace",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 48
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Canvas",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Boot style",
+                    "quantity": 11,
+                    "values": [
+                        {
+                            "name": "Ankle",
+                            "quantity": 88
+                        },
+                        {
+                            "name": "Knee-high",
+                            "quantity": 21
+                        },
+                        {
+                            "name": "Mid calf",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Military",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Sock boots",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Over-the-knee",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Lace-Ups",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Chelsea",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Combat",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Cowboy/Western",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Riding",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Heel height",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Mid heel",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Low heel",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "High heel",
+                            "quantity": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Sneakers",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Casual",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Trainer",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

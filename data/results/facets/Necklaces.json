@@ -1,0 +1,268 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "American Swiss",
+                            "quantity": 292
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 254
+                        },
+                        {
+                            "name": "Sterns",
+                            "quantity": 223
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 122
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 45
+                        },
+                        {
+                            "name": "Chete",
+                            "quantity": 39
+                        },
+                        {
+                            "name": "Markham",
+                            "quantity": 37
+                        },
+                        {
+                            "name": "Tempo",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Michael Kors",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Miss Swiss",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Diesel",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Me&B",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Icon",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "Silver",
+                            "quantity": 206
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 119
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Turquoise",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Metal",
+                            "quantity": 353
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Acrylic",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Microfibre",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Earrings",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Stud earrings",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Hoop earrings",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Huggies",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material metal",
+                    "quantity": 12,
+                    "values": [
+                        {
+                            "name": "Sterling silver",
+                            "quantity": 239
+                        },
+                        {
+                            "name": "Brass",
+                            "quantity": 106
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 94
+                        },
+                        {
+                            "name": "Mixed",
+                            "quantity": 43
+                        },
+                        {
+                            "name": "Alloy",
+                            "quantity": 33
+                        },
+                        {
+                            "name": "Gold plated",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Silver plated",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Stainless Steel",
+                            "quantity": 125
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "White Gold",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Rose Gold",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Platinum",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Necklaces",
+                    "quantity": 8,
+                    "values": [
+                        {
+                            "name": "Pendants",
+                            "quantity": 559
+                        },
+                        {
+                            "name": "Chain",
+                            "quantity": 404
+                        },
+                        {
+                            "name": "Religious & symbols",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Choker",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Beaded",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Charm necklace",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Personalised necklace",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Graduated",
+                            "quantity": 4
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

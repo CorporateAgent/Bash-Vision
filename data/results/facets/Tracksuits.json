@@ -1,0 +1,104 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 5,
+                    "values": [
+                        {
+                            "name": "adidas",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Under Armour",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Kappa",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Archive",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 3,
+                    "values": [
+                        {
+                            "name": "Black",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Pants type",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Trackpants",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Sleeve length",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Long sleeved",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Length",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Full length",
+                            "quantity": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

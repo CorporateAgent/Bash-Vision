@@ -1,0 +1,92 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Jet",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "UGG",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "@home",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "Suede",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Fleece",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Room",
+                    "quantity": 1,
+                    "values": [
+                        {
+                            "name": "Bedroom",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,336 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "Foschini",
+                            "quantity": 117
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 70
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 35
+                        },
+                        {
+                            "name": "Cotton On",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 20
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "adidas",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Under Armour",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Jockey",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Calvin Klein",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Anita",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Asics",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "TS-ACTV8",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "New Balance",
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "Natural",
+                            "quantity": 24
+                        },
+                        {
+                            "name": "Beige",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 93
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 87
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 22
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Clear",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "Microfibre",
+                            "quantity": 72
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 66
+                        },
+                        {
+                            "name": "Lace",
+                            "quantity": 44
+                        },
+                        {
+                            "name": "Polyamide",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Mesh",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Silicone",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Lycra",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 96
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 33
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Spandex",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Womens underwear",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "Bra",
+                            "quantity": 180
+                        },
+                        {
+                            "name": "Panties",
+                            "quantity": 106
+                        },
+                        {
+                            "name": "Shapewear",
+                            "quantity": 23
+                        },
+                        {
+                            "name": "Accessories",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Lingerie",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Vest",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Lingerie set",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Bra style",
+                    "quantity": 14,
+                    "values": [
+                        {
+                            "name": "Medium Impact",
+                            "quantity": 33
+                        },
+                        {
+                            "name": "Low Impact",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "High Impact",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Sports bra",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Bralette",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Bra extenders",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Balconnette",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "TriangleT-Shirt",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Stick On Bra",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Underwired",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Unpadded",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Strapless",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Push Up",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Racer Back",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Women's underwear",
+                    "quantity": 7,
+                    "values": [
+                        {
+                            "name": "G-string",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Brazilian",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "High cut",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Thong",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Briefs",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Boyleg",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Bikini",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

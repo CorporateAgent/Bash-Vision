@@ -1,0 +1,282 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 25,
+                    "values": [
+                        {
+                            "name": "Foschini",
+                            "quantity": 90
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 68
+                        },
+                        {
+                            "name": "ALDO",
+                            "quantity": 66
+                        },
+                        {
+                            "name": "Colette by Colette Hayman",
+                            "quantity": 60
+                        },
+                        {
+                            "name": "Guess",
+                            "quantity": 55
+                        },
+                        {
+                            "name": "Steve Madden",
+                            "quantity": 46
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 40
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Call It Spring",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Iconography",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Nike",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Ts",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "PUMA",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Canvas Studios",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "adidas",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Galaxy & Co",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Redbat",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Daniel Klein",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "YARNS",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "The North Face",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Converse",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Archive",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 23,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 47
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 38
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Taupe",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Stone",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 192
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 65
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 37
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 36
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 36
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 7
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Metallic",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Yellow",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Purple",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Ivory",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 16,
+                    "values": [
+                        {
+                            "name": "Leather",
+                            "quantity": 29
+                        },
+                        {
+                            "name": "Faux-leather",
+                            "quantity": 26
+                        },
+                        {
+                            "name": "Rubber",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Plastic",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Metal",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Poly cotton",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 339
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 32
+                        },
+                        {
+                            "name": "Nylon",
+                            "quantity": 15
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 9
+                        },
+                        {
+                            "name": "Cotton",
+                            "quantity": 5
+                        },
+                        {
+                            "name": "Canvas",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Twill",
+                            "quantity": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

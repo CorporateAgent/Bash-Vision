@@ -1,0 +1,318 @@
+{
+    "data": {
+        "facets": {
+            "facets": [
+                {
+                    "name": "Brand",
+                    "quantity": 13,
+                    "values": [
+                        {
+                            "name": "ALDO",
+                            "quantity": 50
+                        },
+                        {
+                            "name": "Steve Madden",
+                            "quantity": 43
+                        },
+                        {
+                            "name": "Butterfly Feet",
+                            "quantity": 42
+                        },
+                        {
+                            "name": "Foschini",
+                            "quantity": 35
+                        },
+                        {
+                            "name": "Madison",
+                            "quantity": 34
+                        },
+                        {
+                            "name": "Miss Black",
+                            "quantity": 30
+                        },
+                        {
+                            "name": "Exact",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Call It Spring",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Luella",
+                            "quantity": 18
+                        },
+                        {
+                            "name": "THE FIX",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Jet",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Sissy Boy",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "G-Star",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Colour",
+                    "quantity": 20,
+                    "values": [
+                        {
+                            "name": "Beige",
+                            "quantity": 38
+                        },
+                        {
+                            "name": "Natural",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Charcoal",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Black",
+                            "quantity": 140
+                        },
+                        {
+                            "name": "Silver",
+                            "quantity": 19
+                        },
+                        {
+                            "name": "Brown",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "White",
+                            "quantity": 16
+                        },
+                        {
+                            "name": "Red",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Pink",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Blue",
+                            "quantity": 12
+                        },
+                        {
+                            "name": "Tan",
+                            "quantity": 11
+                        },
+                        {
+                            "name": "Gold",
+                            "quantity": 8
+                        },
+                        {
+                            "name": "Multicolour",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Grey",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Rose gold",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Orange",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Green",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Clear",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Burgundy",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Bronze",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Material",
+                    "quantity": 12,
+                    "values": [
+                        {
+                            "name": "Leather",
+                            "quantity": 62
+                        },
+                        {
+                            "name": "Suede",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Rubber",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Microfibre",
+                            "quantity": 4
+                        },
+                        {
+                            "name": "Polyester blend",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Cotton blend",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Lace",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "PU",
+                            "quantity": 130
+                        },
+                        {
+                            "name": "Satin",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Polyester",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Denim",
+                            "quantity": 3
+                        },
+                        {
+                            "name": "Canvas",
+                            "quantity": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Shoes",
+                    "quantity": 2,
+                    "values": [
+                        {
+                            "name": "Mules",
+                            "quantity": 2
+                        },
+                        {
+                            "name": "Casual",
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Heel height",
+                    "quantity": 4,
+                    "values": [
+                        {
+                            "name": "High heel",
+                            "quantity": 151
+                        },
+                        {
+                            "name": "Mid heel",
+                            "quantity": 101
+                        },
+                        {
+                            "name": "Low heel",
+                            "quantity": 46
+                        },
+                        {
+                            "name": "Kitten heel",
+                            "quantity": 26
+                        }
+                    ]
+                },
+                {
+                    "name": "Heel style",
+                    "quantity": 10,
+                    "values": [
+                        {
+                            "name": "Court",
+                            "quantity": 34
+                        },
+                        {
+                            "name": "Slingback",
+                            "quantity": 25
+                        },
+                        {
+                            "name": "Strappy",
+                            "quantity": 17
+                        },
+                        {
+                            "name": "Flared heel",
+                            "quantity": 14
+                        },
+                        {
+                            "name": "Court block",
+                            "quantity": 6
+                        },
+                        {
+                            "name": "Block Heel",
+                            "quantity": 94
+                        },
+                        {
+                            "name": "Stiletto",
+                            "quantity": 68
+                        },
+                        {
+                            "name": "Wedge",
+                            "quantity": 49
+                        },
+                        {
+                            "name": "Mule",
+                            "quantity": 13
+                        },
+                        {
+                            "name": "Platform",
+                            "quantity": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandal & flip flops style",
+                    "quantity": 6,
+                    "values": [
+                        {
+                            "name": "Slip-on",
+                            "quantity": 29
+                        },
+                        {
+                            "name": "Ankle Strap",
+                            "quantity": 63
+                        },
+                        {
+                            "name": "Strappy",
+                            "quantity": 28
+                        },
+                        {
+                            "name": "Sling Back",
+                            "quantity": 27
+                        },
+                        {
+                            "name": "Gladiator",
+                            "quantity": 1
+                        },
+                        {
+                            "name": "Chunky",
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
