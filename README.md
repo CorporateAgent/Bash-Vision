@@ -154,9 +154,9 @@ Bash Vision/
 <h2 id="resources" style="font-family:Arial, sans-serif;">🔗 Resources</h2>
 <ul style="font-family:Arial, sans-serif;">
   <li>
-    <a href="https://github.com/ultralytics/yolov8" target="_blank">
+    <a href="[https://github.com/ultralytics/yolov8](https://docs.ultralytics.com/models/yolo-world/)" target="_blank">
       YOLOv8 Documentation
-    </a> - Learn more about YOLO, one of the most efficient and fast object detection models used in this project.
+    </a> - Learn more & download the YOLO World, one of the most efficient and fast object detection models used in this project.
   </li>
   <li>
     <a href="https://openai.com/research/clip" target="_blank">
