@@ -49,7 +49,7 @@ This demo was built to assess the suitability of such AI models in production en
 <h2 id="installation" style="font-family:Arial, sans-serif;">Installation</h2>
 
 <p style="font-family:Arial, sans-serif;">
-  <b>Note:</b> Ensure you have YOLOv8 and OpenAI CLIP models available in the <code>data/models</code> directory. Follow the below instructions to install demo <a href="#resources">resources section</a>.
+  <b>Note:</b> Ensure you have <a href="https://pytorch.org/"> Pytorch </a> installed as well as YOLOv8 and OpenAI CLIP models available in the <code>data/models</code> directory. You can download the models from the following links: <a href="#resources">resources section</a>.
 </p>
 
 <pre><code style="font-family:monospace;">
