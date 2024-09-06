@@ -197,9 +197,6 @@ Bash Vision/
 
 <!-- LICENSE SECTION -->
 <h2 id="license" style="font-family:Arial, sans-serif;">License</h2>
-<p style="font-family:Arial, sans-serif;">
-  Licensed under the <a href="LICENSE" target="_blank">MIT License</a>. Feel free to use and modify the project for your own purposes, but please include the appropriate attributions in derivative works.
-</p>
 
 <p align="center" style="font-family:Arial, sans-serif;">
   Made with ❤️ by Lo.
