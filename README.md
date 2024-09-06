@@ -28,11 +28,9 @@
 <!-- INTRODUCTION SECTION -->
 <h2 id="introduction" style=" font-family:Arial, sans-serif;">Introduction</h2>
 <p style="font-family:Arial, sans-serif;">
-Exploration on an AI-driven product discovery feature that allows customers to upload lifestyle images and receive personalized product recommendations. This project leverages <b>YOLO (You Only Look Once)</b> for fast and accurate object detection and <b>OpenAI’s CLIP</b> model to match identified items to relevant product categories, brands, and other facets using multi-modal embeddings. By employing real-time data from the VTEX platform, the app aims to provide a visual, intuitive, and content-based filtering approach to streamline our customers shopping experience.
+Exploration on an AI-driven product discovery feature that allows customers to upload lifestyle images and receive product recommendations. This project leverages <b>YOLO (You Only Look Once)</b> for fast and accurate object detection and <b>OpenAI’s CLIP</b> model to match identified items to relevant product categories, brands, and other facets using multi-modal embeddings. By employing real-time data from the VTEX platform and a content-based filtering approach to streamline our customers shopping experience.
 
-The goal is to evaluate how well image-based search, powered by state-of-the-art AI models, can help users find similar products in our catalog. We achieve this through image-text search, where a query image is processed to return textual data. This approach aligns with content-based filtering, where objects of interest are represented as vectors in feature space, and the similarity between them is quantitatively measured.
-
-This demo was built to assess the suitability of such AI models in production environments and understand the requirements for scaling this into a more robust feature. The project follows key principles, such as leveraging existing AI models and open-source technologies to build an ecosystem that Bash can harness for better product discovery and recommendation.
+We achieve this through image-text search, where a query image is processed to return textual data. Objects of interest are represented as vectors in feature space, and the similarity between them is quantitatively measured. We've aimed to asses the suitability of AI models in production environments and understand the requirements for scaling this into a more robust feature. The project follows the key principle of leveraging open-source technology to build an ecosystem that Bash can harness for better product discovery and recommendation.
 </p>
 
 <!-- FEATURES SECTION -->
